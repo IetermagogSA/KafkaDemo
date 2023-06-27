@@ -7,3 +7,6 @@
 /KafkaConsumer/bin/
 /KafkaProducer/obj/
 /KafkaProducer/bin/
+
+**/bin/
+**/obj/
