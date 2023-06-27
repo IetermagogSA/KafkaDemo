@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repositories\\kafkademo\\kafkaconsumer\\consumer.csproj": {}
+    "D:\\Repositories\\KafkaDemo\\kafkaconsumer\\consumer.csproj": {}
   },
   "projects": {
-    "D:\\repositories\\kafkademo\\kafkaconsumer\\consumer.csproj": {
+    "D:\\Repositories\\KafkaDemo\\kafkaconsumer\\consumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repositories\\kafkademo\\kafkaconsumer\\consumer.csproj",
+        "projectUniqueName": "D:\\Repositories\\KafkaDemo\\kafkaconsumer\\consumer.csproj",
         "projectName": "consumer",
-        "projectPath": "D:\\repositories\\kafkademo\\kafkaconsumer\\consumer.csproj",
+        "projectPath": "D:\\Repositories\\KafkaDemo\\kafkaconsumer\\consumer.csproj",
         "packagesPath": "C:\\Users\\shdut\\.nuget\\packages\\",
-        "outputPath": "D:\\repositories\\kafkademo\\kafkaconsumer\\obj\\",
+        "outputPath": "D:\\Repositories\\KafkaDemo\\kafkaconsumer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shdut\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "di+9d6KE09Q9n6/vUvDN7Z21kkbGa8OQwyJysmJ6jMCKmfuPEAEf6iQW/LKxwbcgAklr8U1qvh6ZdMAcUSiBCg==",
+  "dgSpecHash": "vEt7vgUo5bRsgwNv0MwlSerHp/9DcE1SSkTlnmIAWKs1YttDmYx1OgTG1WdosH6lGc4Wi41rvhEilsV/RwQoWQ==",
   "success": true,
-  "projectFilePath": "D:\\repositories\\kafkademo\\kafkaconsumer\\consumer.csproj",
+  "projectFilePath": "D:\\Repositories\\KafkaDemo\\kafkaconsumer\\consumer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shdut\\.nuget\\packages\\confluent.kafka\\1.9.3\\confluent.kafka.1.9.3.nupkg.sha512",
     "C:\\Users\\shdut\\.nuget\\packages\\librdkafka.redist\\1.9.2\\librdkafka.redist.1.9.2.nupkg.sha512",
