@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VmS/lkMBTZCxvC6jNPISjnVVPSSDYccu4wXksOMTYe/aTRgu9UCIojIue91hDEL3LTDlSaE97HyGer+sEmvFHQ==",
+  "dgSpecHash": "wfcIPFNdwMSLYsbQdgwuWsVSpI4yluqfTjiPHvrKQmLWgSadDjlFjFgRwi12ADNWZJSjG2TzLcj64sAE9uVhGA==",
   "success": true,
-  "projectFilePath": "D:\\repositories\\kafkademo\\kafkaproducer\\producer.csproj",
+  "projectFilePath": "D:\\Repositories\\kafkademo\\kafkaproducer\\producer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shdut\\.nuget\\packages\\confluent.kafka\\1.9.3\\confluent.kafka.1.9.3.nupkg.sha512",
     "C:\\Users\\shdut\\.nuget\\packages\\librdkafka.redist\\1.9.2\\librdkafka.redist.1.9.2.nupkg.sha512",

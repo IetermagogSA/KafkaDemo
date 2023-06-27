@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\KafkaConsumer\\bin"
   ],
-  "SelectedNode": "\\D:\\Repositories\\KafkaDemo",
+  "SelectedNode": "\\KafkaConsumer",
   "PreviewInSolutionExplorer": false
 }

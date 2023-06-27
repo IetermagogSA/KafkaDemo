@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repositories\\kafkademo\\kafkaproducer\\producer.csproj": {}
+    "D:\\Repositories\\kafkademo\\kafkaproducer\\producer.csproj": {}
   },
   "projects": {
-    "D:\\repositories\\kafkademo\\kafkaproducer\\producer.csproj": {
+    "D:\\Repositories\\kafkademo\\kafkaproducer\\producer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repositories\\kafkademo\\kafkaproducer\\producer.csproj",
+        "projectUniqueName": "D:\\Repositories\\kafkademo\\kafkaproducer\\producer.csproj",
         "projectName": "producer",
-        "projectPath": "D:\\repositories\\kafkademo\\kafkaproducer\\producer.csproj",
+        "projectPath": "D:\\Repositories\\kafkademo\\kafkaproducer\\producer.csproj",
         "packagesPath": "C:\\Users\\shdut\\.nuget\\packages\\",
-        "outputPath": "D:\\repositories\\kafkademo\\kafkaproducer\\obj\\",
+        "outputPath": "D:\\Repositories\\kafkademo\\kafkaproducer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shdut\\AppData\\Roaming\\NuGet\\NuGet.Config",
