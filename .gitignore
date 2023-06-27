@@ -2,8 +2,8 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs
-/KafkaConsumer/obj
-/KafkaConsumer/bin
-/KafkaProducer/obj
-/KafkaProducer/bin
+/.vs/
+/KafkaConsumer/obj/
+/KafkaConsumer/bin/
+/KafkaProducer/obj/
+/KafkaProducer/bin/
